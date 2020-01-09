@@ -1,3 +1,14 @@
+/*
+
+AUTHOR : DEV GIRI
+PROJECT : READABILITY PROGRAM
+PROGRAMMING LANGUAGE USED : C
+LICENSE : MIT
+
+*/
+
+
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
